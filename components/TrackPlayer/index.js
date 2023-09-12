@@ -1,5 +1,6 @@
 import React from 'react'
-import { View } from 'react-native'
+import { Text, View } from 'react-native'
+import { Button, ButtonText } from '@gluestack-ui/themed';
 
 const TrackPlayer = () => {
   return (
