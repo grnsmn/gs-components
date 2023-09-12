@@ -3,7 +3,9 @@ import { View } from 'react-native'
 
 const TrackPlayer = () => {
   return (
-    <View></View>
+    <View>
+      <Text>Ciao mondo</Text>
+    </View>
   )
 }
 
