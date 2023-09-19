@@ -5,8 +5,8 @@ import { Button, GluestackUIProvider } from '@gluestack-ui/themed';
 const TrackPlayer = () => {
   return (
   <GluestackUIProvider>
-      <View>
-      <Button >Button bello</Button>
+    <View>
+      <Button bgColor='green' borderRadius={'$full'} >Button bello</Button>
     </View>
   </GluestackUIProvider>
   )
