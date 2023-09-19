@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
   container: {
     paddingHorizontal: 32,
     paddingVertical: 8,
-    backgroundColor: "#00000",
+    backgroundColor: 'black',
     alignSelf: "flex-start",
     borderRadius: 8,
   },
