@@ -51,6 +51,7 @@ const getStories = () => {
   return {
     "./components/Button/Button.stories.tsx": require("../components/Button/Button.stories.tsx"),
     "./components/TrackPlayer/TrackPlayer.stories.js": require("../components/TrackPlayer/TrackPlayer.stories.js"),
+    "./components/Touchable/Touchable.stories.js": require("../components/Touchable/Touchable.stories.js"),
   };
 };
 
