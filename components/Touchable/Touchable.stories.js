@@ -12,3 +12,8 @@ const Template = (args) => <Touchable title="Hello Storybook" onPress={() => ale
 
 export const Default = Template.bind({});
 Default.args = {};
+
+export const CustomTextColor = Template.bind({});
+CustomTextColor.args = {
+    textColor: 'blue'
+};
